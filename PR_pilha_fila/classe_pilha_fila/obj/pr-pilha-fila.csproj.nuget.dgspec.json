@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fujitsu\\OneDrive\\Documentos\\meus_projetos\\Projetos C#\\ContaBancaria\\ContaBancaria.csproj": {}
+    "C:\\Users\\Fujitsu\\OneDrive\\Documentos\\meus_projetos\\Projetos C#\\PR_pilha_fila\\classe_pilha_fila\\pr-pilha-fila.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fujitsu\\OneDrive\\Documentos\\meus_projetos\\Projetos C#\\ContaBancaria\\ContaBancaria.csproj": {
+    "C:\\Users\\Fujitsu\\OneDrive\\Documentos\\meus_projetos\\Projetos C#\\PR_pilha_fila\\classe_pilha_fila\\pr-pilha-fila.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fujitsu\\OneDrive\\Documentos\\meus_projetos\\Projetos C#\\ContaBancaria\\ContaBancaria.csproj",
-        "projectName": "ContaBancaria",
-        "projectPath": "C:\\Users\\Fujitsu\\OneDrive\\Documentos\\meus_projetos\\Projetos C#\\ContaBancaria\\ContaBancaria.csproj",
+        "projectUniqueName": "C:\\Users\\Fujitsu\\OneDrive\\Documentos\\meus_projetos\\Projetos C#\\PR_pilha_fila\\classe_pilha_fila\\pr-pilha-fila.csproj",
+        "projectName": "pr-pilha-fila",
+        "projectPath": "C:\\Users\\Fujitsu\\OneDrive\\Documentos\\meus_projetos\\Projetos C#\\PR_pilha_fila\\classe_pilha_fila\\pr-pilha-fila.csproj",
         "packagesPath": "C:\\Users\\Fujitsu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fujitsu\\OneDrive\\Documentos\\meus_projetos\\Projetos C#\\ContaBancaria\\obj\\",
+        "outputPath": "C:\\Users\\Fujitsu\\OneDrive\\Documentos\\meus_projetos\\Projetos C#\\PR_pilha_fila\\classe_pilha_fila\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fujitsu\\AppData\\Roaming\\NuGet\\NuGet.Config"

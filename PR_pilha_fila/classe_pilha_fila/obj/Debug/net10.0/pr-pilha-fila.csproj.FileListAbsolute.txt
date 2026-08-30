@@ -1,0 +1,15 @@
+C:\Users\Fujitsu\OneDrive\Documentos\meus_projetos\Projetos C#\PR_pilha_fila\classe_pilha_fila\bin\Debug\net10.0\pr-pilha-fila.exe
+C:\Users\Fujitsu\OneDrive\Documentos\meus_projetos\Projetos C#\PR_pilha_fila\classe_pilha_fila\bin\Debug\net10.0\pr-pilha-fila.deps.json
+C:\Users\Fujitsu\OneDrive\Documentos\meus_projetos\Projetos C#\PR_pilha_fila\classe_pilha_fila\bin\Debug\net10.0\pr-pilha-fila.runtimeconfig.json
+C:\Users\Fujitsu\OneDrive\Documentos\meus_projetos\Projetos C#\PR_pilha_fila\classe_pilha_fila\bin\Debug\net10.0\pr-pilha-fila.dll
+C:\Users\Fujitsu\OneDrive\Documentos\meus_projetos\Projetos C#\PR_pilha_fila\classe_pilha_fila\bin\Debug\net10.0\pr-pilha-fila.pdb
+C:\Users\Fujitsu\OneDrive\Documentos\meus_projetos\Projetos C#\PR_pilha_fila\classe_pilha_fila\obj\Debug\net10.0\pr-pilha-fila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fujitsu\OneDrive\Documentos\meus_projetos\Projetos C#\PR_pilha_fila\classe_pilha_fila\obj\Debug\net10.0\pr-pilha-fila.AssemblyInfoInputs.cache
+C:\Users\Fujitsu\OneDrive\Documentos\meus_projetos\Projetos C#\PR_pilha_fila\classe_pilha_fila\obj\Debug\net10.0\pr-pilha-fila.AssemblyInfo.cs
+C:\Users\Fujitsu\OneDrive\Documentos\meus_projetos\Projetos C#\PR_pilha_fila\classe_pilha_fila\obj\Debug\net10.0\pr-pilha-fila.csproj.CoreCompileInputs.cache
+C:\Users\Fujitsu\OneDrive\Documentos\meus_projetos\Projetos C#\PR_pilha_fila\classe_pilha_fila\obj\Debug\net10.0\pr-pilha-fila.sourcelink.json
+C:\Users\Fujitsu\OneDrive\Documentos\meus_projetos\Projetos C#\PR_pilha_fila\classe_pilha_fila\obj\Debug\net10.0\pr-pilha-fila.dll
+C:\Users\Fujitsu\OneDrive\Documentos\meus_projetos\Projetos C#\PR_pilha_fila\classe_pilha_fila\obj\Debug\net10.0\refint\pr-pilha-fila.dll
+C:\Users\Fujitsu\OneDrive\Documentos\meus_projetos\Projetos C#\PR_pilha_fila\classe_pilha_fila\obj\Debug\net10.0\pr-pilha-fila.pdb
+C:\Users\Fujitsu\OneDrive\Documentos\meus_projetos\Projetos C#\PR_pilha_fila\classe_pilha_fila\obj\Debug\net10.0\pr-pilha-fila.genruntimeconfig.cache
+C:\Users\Fujitsu\OneDrive\Documentos\meus_projetos\Projetos C#\PR_pilha_fila\classe_pilha_fila\obj\Debug\net10.0\ref\pr-pilha-fila.dll

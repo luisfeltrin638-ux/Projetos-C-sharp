@@ -12,3 +12,4 @@ C:\Users\Fujitsu\OneDrive\Documentos\meus_projetos\projetos C#\ContaBancaria\obj
 C:\Users\Fujitsu\OneDrive\Documentos\meus_projetos\projetos C#\ContaBancaria\obj\Debug\net10.0\ContaBancaria.pdb
 C:\Users\Fujitsu\OneDrive\Documentos\meus_projetos\projetos C#\ContaBancaria\obj\Debug\net10.0\ContaBancaria.genruntimeconfig.cache
 C:\Users\Fujitsu\OneDrive\Documentos\meus_projetos\projetos C#\ContaBancaria\obj\Debug\net10.0\ref\ContaBancaria.dll
+C:\Users\Fujitsu\OneDrive\Documentos\meus_projetos\Projetos C#\ContaBancaria\obj\Debug\net10.0\ContaBancaria.sourcelink.json
